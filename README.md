@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
