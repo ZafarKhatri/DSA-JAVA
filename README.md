@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
