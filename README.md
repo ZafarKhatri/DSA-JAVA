@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
@@ -29,6 +30,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
