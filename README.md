@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -76,6 +78,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
