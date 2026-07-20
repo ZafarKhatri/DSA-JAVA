@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -32,6 +33,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -74,6 +76,7 @@
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
