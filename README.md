@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
