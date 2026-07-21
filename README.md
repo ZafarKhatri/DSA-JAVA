@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting Sort
 |  |
 | ------- |
