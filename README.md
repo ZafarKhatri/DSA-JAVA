@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
