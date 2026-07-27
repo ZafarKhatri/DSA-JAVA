@@ -17,6 +17,7 @@
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -96,6 +97,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
