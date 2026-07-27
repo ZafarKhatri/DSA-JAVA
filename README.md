@@ -73,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -134,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -191,4 +193,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
