@@ -239,4 +239,12 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
