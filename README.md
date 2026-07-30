@@ -34,6 +34,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -180,6 +181,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
