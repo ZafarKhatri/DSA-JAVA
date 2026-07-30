@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
