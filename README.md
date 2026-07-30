@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -206,6 +208,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
