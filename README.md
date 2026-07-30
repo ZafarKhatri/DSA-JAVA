@@ -38,6 +38,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -184,6 +185,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1768-merge-strings-alternately](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
