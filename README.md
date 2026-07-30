@@ -46,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -157,6 +158,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
