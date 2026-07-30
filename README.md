@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
@@ -204,6 +206,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
