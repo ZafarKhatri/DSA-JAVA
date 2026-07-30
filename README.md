@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
