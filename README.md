@@ -153,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
