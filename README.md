@@ -65,6 +65,7 @@
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -103,6 +104,7 @@
 | [0561-array-partition](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -126,6 +128,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -213,6 +217,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
