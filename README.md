@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -169,6 +171,7 @@
 | [0048-rotate-image](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
@@ -259,4 +262,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
