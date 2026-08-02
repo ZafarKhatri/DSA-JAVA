@@ -23,6 +23,7 @@
 | [0561-array-partition](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -173,6 +175,7 @@
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -267,4 +270,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
