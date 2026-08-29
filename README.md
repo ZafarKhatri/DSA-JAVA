@@ -40,6 +40,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -171,6 +173,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
