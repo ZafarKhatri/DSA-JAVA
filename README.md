@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1140-stone-game-ii) |
@@ -297,6 +298,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0344-reverse-string) |
