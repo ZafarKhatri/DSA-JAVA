@@ -37,6 +37,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,6 +101,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -120,6 +122,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -319,6 +322,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3904-smallest-stable-index-ii) |
@@ -433,6 +437,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
