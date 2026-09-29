@@ -44,6 +44,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -160,6 +161,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1563-stone-game-v) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -379,6 +381,7 @@
 | [0835-image-overlap](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1572-matrix-diagonal-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
@@ -476,4 +479,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
