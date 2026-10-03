@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0486-predict-the-winner) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1096-brace-expansion-ii) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
@@ -486,6 +489,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ZafarKhatri/DSA-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
